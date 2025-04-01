@@ -1,1 +1,1 @@
-My notes from HTB CyberApocalypse 2025
+My notes and solves from HTB CyberApocalypse 2025
